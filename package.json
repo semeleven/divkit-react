@@ -1,0 +1,22 @@
+{
+  "name": "div-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.1.0",
+    "vite": "^2.6.14"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-reconciler": "^0.26.2"
+  }
+}
